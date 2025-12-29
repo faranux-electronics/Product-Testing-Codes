@@ -1,6 +1,6 @@
-# FaranuX Electronics — Product Testing Codes
+# Faranux Electronics — Product Testing Codes
 
-This repository is a collection of hardware test sketches, example projects, and reference schematics for a variety of sensors and modules used by FaranuX Electronics. The projects are primarily Arduino sketches (.ino) intended for quick testing and demonstration.
+This repository is a collection of hardware test sketches, example projects, and reference schematics for a variety of sensors and modules used by Faranux Electronics. The projects are primarily Arduino sketches (.ino) intended for quick testing and demonstration.
 
 Repository layout (top-level folders):
 
